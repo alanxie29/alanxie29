@@ -1,9 +1,6 @@
-# Hey, I'm Alan!
+### Hello 👋 I'm Alan ! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-rectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanxie29/)](https://www.linkedin.com/in/alanxie29/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-rectangle&logo=Gmail&logoColor=white&link=mailto:alanxie29@gmail.com)](mailto:alanxie29@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/-Resume-B2BEC3?style=flat-rectangle&link=https://github.com/alanxie29/personal-website/blob/master/src/assets/resume.pdf)](https://github.com/alanxie29/personal-website/blob/master/src/assets/resume.pdf)
+I'm a 4th year student at the University of Waterloo. I enjoy building backend services focused on scalability and efficiency. Previously, I've interned as a Software Engineer at autonomic.ai and Ford Canada. Currently, I'm a DevOps Engineer at autonomic.ai.
 
-I'm a third year student at the University of Waterloo in the Health Informatics program. I enjoy optimizing and implementing elegant backend solutions and services. I spent my last term interning at autonomic.ai in Toronto.
 
-![Suyash github stats](https://github-readme-stats.vercel.app/api?username=alanxie29&hide=["issues"]&show_icons=true)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alanxie29/) [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanxie29@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://alan-xie.com) [![Resume](https://img.shields.io/badge/Resume-orange?style=for-the-badge)](https://alan-xie.com/assets/alan_xie_resume.pdf)
