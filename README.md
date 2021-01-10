@@ -1,4 +1,4 @@
-### Hello 👋  I'm Alan ! 
+### Hello 👋  I'm Alan ! 
 
 I'm a 4th year student at the University of Waterloo. I enjoy building backend services focused on scalability and efficiency. Previously, I've interned as a Software Engineer at autonomic.ai and Ford Canada. Currently, I'm a DevOps Engineer at autonomic.ai.
 
